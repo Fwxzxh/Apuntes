@@ -5,6 +5,7 @@
 	* .
 		
 
-[Volver al indice gral](Apuntes/README.md)
+[Volver al indice gral](https://github.com/Fwxzxh/Apuntes)
+
 
 
